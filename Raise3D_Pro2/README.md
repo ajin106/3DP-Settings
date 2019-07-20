@@ -17,13 +17,13 @@ ABS seems to look similar however the Hips sticks slightly better with grid over
 **infill ratio changes**  
 *grid*  
 - 30%  
-![](Images/30%grid)
+![](Images/30%grid.JPG)
 - 50%  
-![](Images/50%grid)
+![](Images/50%grid.JPG)
 - 80%  
-![](Images/80%grid)
+![](Images/80%grid.JPG)
 *line*  
 - 50%  
-![](Images/50%line)
+![](Images/50%line.JPG)
 - 80%
-![](Images/80%line)
+![](Images/80%line.JPG)
